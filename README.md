@@ -2,7 +2,7 @@
 
 A modern, responsive React-based password generator that creates strong, random passwords with customizable options. Built with Vite for fast development and optimal performance.
 
-![Password Generator](https://rokusuke69.github.io/Random-Password-Generator/)
+![https://rokusuke69.github.io/Random-Password-Generator/]
 
 ## ✨ Features
 
